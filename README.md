@@ -48,31 +48,32 @@ Projects Overview
     *   [Python - More Classes and Objects](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x08-python-more_classes)
 10.  **0x09. Python - Everything is object**
     
-       **Description:** Understanding Python's object model and everything being an object.
+      * **Description:** Understanding Python's object model and everything being an object.
+    
     *   [Python - Everything is object](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x09-python-everything_is_object)
 11.  **0x0A. Python - Inheritance**
     
-    *   **Description:** Explore inheritance and polymorphism in Python.
+     * **Description:** Explore inheritance and polymorphism in Python.
     *   [Python - Inheritance](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x0A-python-inheritance)
 12.  **0x0B. Python - Input/Output**
     
-    *   **Description:** Working with input and output operations in Python.
+     * **Description:** Working with input and output operations in Python.
     *   [Python - Input/Output](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x0B-python-input_output)
 13.  **0x0C. Python - Almost a circle**
     
-    *   **Description:** Implementing object-oriented programming concepts with a project centered around circles.
+     * **Description:** Implementing object-oriented programming concepts with a project centered around circles.
     *   [Python - Almost a circle](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle)
 14.  **0x0F. Python - Object-relational mapping**
     
-    *   **Description:** Introduction to Object-Relational Mapping (ORM) in Python.
+     * **Description:** Introduction to Object-Relational Mapping (ORM) in Python.
     *   [Python - Object-relational mapping](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x0F-python-object_relational_mapping)
 15.  **0x10. Python - Network #0**
     
-    *   **Description:** Basics of network programming and working with network protocols in Python.
+     * **Description:** Basics of network programming and working with network protocols in Python.
     *   [Python - Network #0](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x10-python-network_0)
 16.  **0x11. Python - Network #1**
     
-    *   **Description:** Advanced network programming concepts and protocols in Python.
+     * **Description:** Advanced network programming concepts and protocols in Python.
     *   [Python - Network #1](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x11-python-network_1)
 
 ### JavaScript
