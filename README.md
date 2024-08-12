@@ -48,7 +48,7 @@ Projects Overview
     *   [Python - More Classes and Objects](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x08-python-more_classes)
 10.  **0x09. Python - Everything is object**
     
-    *   **Description:** Understanding Python's object model and everything being an object.
+       **Description:** Understanding Python's object model and everything being an object.
     *   [Python - Everything is object](https://github.com/PetrusHimself/alx-higher_level_programming/tree/master/0x09-python-everything_is_object)
 11.  **0x0A. Python - Inheritance**
     
